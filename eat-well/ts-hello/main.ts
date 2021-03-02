@@ -5,7 +5,14 @@ let d: any;
 let e: number[] = [1, 2, 3];
 let f: any[] = [1, true, 'a', false];
 
+//inna
 
+const ColorRed = 0;
+const ColorGreen = 1;
+const ColorBlue = 2;
+
+enum Color { Red, Green , Blue, Purple};
+let backgroundColor = Color.Red;
 
 
 /*let a: number;
